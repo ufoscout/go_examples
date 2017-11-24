@@ -1,0 +1,6 @@
+hash: 063219bdfb9cb1d804f6cc1ccd6a65e278b94fe7954f151360f92a71c46069cd
+updated: 2017-11-24T09:58:18.455678825+01:00
+imports:
+- name: github.com/andlabs/ui
+  version: 2dde2a79e7020f065d94d9bc17e0191bf18a5bff
+testImports: []
