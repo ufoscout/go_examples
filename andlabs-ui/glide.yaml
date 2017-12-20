@@ -1,4 +1,0 @@
-package: github.com/ufoscout/go_examples/andlabs-ui
-import:
-- package: github.com/andlabs/ui
-#  version: ^1.2
